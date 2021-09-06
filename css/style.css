@@ -1,0 +1,109 @@
+
+#menu2{
+    background-image:url("../img/menu1.png");
+    background-size: cover;
+   
+    padding: 200px;
+    background-position: center;
+    background-color: #003c5a;
+ 
+    background-repeat: no-repeat;
+    
+}
+#Btn {
+	border-radius: 25px;
+	color: white;
+	
+    background-color: #fc8f44;
+  
+}
+#menu3{
+    padding-top: 30px;
+
+	background-color: #edf4f8;
+	width: 100%;
+}
+#menu4 {
+	
+	width: 100%;
+    padding:25px;
+}
+#menu5{
+    padding-top: 30px;
+
+	background-color: #edf4f8;
+	width: 100%;
+}
+#menu6{
+    background-color: #003c5a;
+  
+    width: auto;
+  
+}
+#menu6 #text4_1{
+    
+    padding: 70px;
+    font-family: merriweather,serrif;
+    padding-top: 60px;
+    position: relative;
+        top:-50px;
+        color: white;
+   
+    }
+    #text4{
+        color:white;
+        font-family: merriweather,serrif;
+        padding-top: 100px;
+        font-size: 45px;
+        
+        }
+     #email{
+        position: relative;
+        border-radius: 30px;
+        padding: 10px 100px;
+        height: auto;
+        
+        top: -90px;
+       
+       
+    }
+    #menu6 button{
+        background-color: #e76e33;
+        border-radius: 30px;
+        padding: 10px 60px;
+        position: relative;
+        top: -90px;
+        
+        
+    }
+#numero{
+	text-decoration: none;
+	font-size: 20px;
+    font-family:  Adobe Hebrew;
+   
+}
+#menu7{
+    background-color: #e76e33;
+	
+}
+#menu7 #titre h2{
+
+    color: white;
+    font-size: 50px;
+    font-family: merriweather,serif ;
+  
+}
+#footer  p{
+	color: white;
+	opacity: 0.2;
+}
+#footer  hr{
+	color: white;
+
+}
+#footer{
+    
+	background-color: #272727;
+   
+	
+}
